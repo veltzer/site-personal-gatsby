@@ -1,4 +1,3 @@
-dev_requires = [
-    "pypitools",
-    "black",
-]
+""" python deps for this project """
+
+requires = []
